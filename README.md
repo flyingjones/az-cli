@@ -1,6 +1,8 @@
 # az-cli
 az cli with docker and kubectl
 
+[image on docker hub](https://hub.docker.com/repository/docker/jfkhatesdocker/az-cli)
+
 
 can be used e.g. in a gitlab pipeline:
 ````
